@@ -1,0 +1,46 @@
+Contact: mailto:security@analos.io
+Contact: https://twitter.com/EWildn
+Contact: https://t.me/Dubie_420
+Expires: 2026-12-31T23:59:59.000Z
+Encryption: https://github.com/Dubie-eth/analos-programs/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://github.com/Dubie-eth/analos-programs/security.txt
+Policy: https://github.com/Dubie-eth/analos-programs/SECURITY.md
+
+# Security Policy for Analos Programs
+
+## Reporting Security Vulnerabilities
+
+If you discover a security vulnerability in any of the Analos programs, please report it responsibly:
+
+1. **Email**: security@analos.io
+2. **Twitter**: @EWildn
+3. **Telegram**: t.me/Dubie_420
+
+## What to Include
+
+- Description of the vulnerability
+- Steps to reproduce
+- Potential impact
+- Suggested fix (if any)
+
+## Response Time
+
+We aim to respond to security reports within 24 hours and provide updates within 72 hours.
+
+## Scope
+
+This security policy covers all programs in the Analos NFT Launchpad ecosystem:
+- Price Oracle
+- Rarity Oracle  
+- NFT Launchpad
+- Token Launch
+- Enhanced Programs
+
+## Rewards
+
+We may offer rewards for valid security vulnerabilities depending on severity and impact.
+
+## Disclosure
+
+We will coordinate disclosure of vulnerabilities with reporters to ensure proper patching before public disclosure.

@@ -1,0 +1,25 @@
+[package]
+name = "analos-vesting"
+version = "0.1.0"
+description = "Token Vesting Program for Analos - Streamflow-inspired"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "analos_vesting"
+
+[features]
+no-entrypoint = []
+no-idl = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1
+

@@ -1,0 +1,31 @@
+[workspace]
+members = [
+    "programs/analos-nft-launchpad",
+    "programs/analos-token-launch",
+    "programs/analos-rarity-oracle",
+    "programs/analos-price-oracle",
+    "programs/analos-metadata",
+    "programs/analos-vesting",
+    "programs/analos-token-lock",
+    "programs/analos-airdrop",
+    "programs/analos-otc-marketplace",
+    "programs/analos-otc-enhanced",
+    "programs/analos-airdrop-enhanced",
+    "programs/analos-vesting-enhanced",
+    "programs/analos-token-lock-enhanced",
+    "programs/analos-monitoring-system",
+]
+resolver = "2"
+
+[workspace.dependencies]
+solana-program = "=1.18.26"
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1
+
+[profile.release.build-override]
+opt-level = 3
+incremental = false
+codegen-units = 1

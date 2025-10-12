@@ -1,0 +1,24 @@
+[package]
+name = "analos-metadata"
+version = "0.1.0"
+description = "Lightweight NFT Metadata Program for Analos"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "analos_metadata"
+
+[features]
+no-entrypoint = []
+no-idl = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1

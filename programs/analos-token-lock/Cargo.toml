@@ -1,0 +1,25 @@
+[package]
+name = "analos-token-lock"
+version = "0.1.0"
+description = "Token Lock Program for Analos - Prove liquidity commitment"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "analos_token_lock"
+
+[features]
+no-entrypoint = []
+no-idl = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+
+[profile.release]
+overflow-checks = true
+lto = "fat"
+codegen-units = 1
+

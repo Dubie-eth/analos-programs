@@ -1,0 +1,40 @@
+# Security Policy
+
+## Program Information
+name: "Analos Airdrop Enhanced"
+project_url: "https://github.com/yourusername/analos-nft-launchpad"
+contacts: "email:security@analos.io,twitter:@analos_io"
+policy: "https://github.com/yourusername/analos-nft-launchpad/blob/main/SECURITY.md"
+preferred_languages: "en"
+source_code: "https://github.com/yourusername/analos-nft-launchpad"
+source_release: "v1.0.0"
+source_revision: "main"
+auditors: "None"
+acknowledgements: "Thank you to all security researchers and contributors."
+
+## Contact Information
+- **Security Issues:** security@analos.io
+- **Twitter/X:** @analos_io
+- **Discord:** discord.gg/analos
+- **Telegram:** t.me/analos
+- **GitHub:** github.com/yourusername/analos-nft-launchpad
+
+## Reporting Security Vulnerabilities
+If you discover a security vulnerability, please report it to:
+- Email: security@analos.io
+- Twitter DM: @analos_io
+
+**Please do NOT open a public issue for security vulnerabilities.**
+
+## Bug Bounty Program
+Details coming soon. Contact security@analos.io for early participation.
+
+## Deployed Program
+- **Program ID:** J2D1LiSGxj9vTN7vc3CUD1LkrnqanAeAoAhE2nvvyXHC
+- **Network:** Mainnet
+- **Last Updated:** 2025-10-12
+
+## Verified Build
+This program is built from the source code at the repository above.
+To verify the build, compare the on-chain program hash with a local build.
+

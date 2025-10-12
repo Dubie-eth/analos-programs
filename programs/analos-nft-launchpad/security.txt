@@ -1,0 +1,12 @@
+name: "Analos NFT Launchpad"
+project_url: "https://github.com/Dubie-eth/analos-nft-launchpad-program"
+contacts: "email:security@analos.io,twitter:@EWildn,telegram:t.me/Dubie_420"
+policy: "https://github.com/Dubie-eth/analos-nft-launchpad-program/blob/main/SECURITY.md"
+preferred_languages: "en"
+source_code: "https://github.com/Dubie-eth/analos-nft-launchpad-program"
+source_revision: "5gmaywNK418QzG7eFA7qZLJkCGS8cfcPtm4b2RZQaJHT"
+source_release: "v1.0.0"
+auditors: "None"
+acknowledgements: "Thank you to all security researchers who help keep Analos secure. Contact: @EWildn or t.me/Dubie_420"
+expiry: ""
+

@@ -1,6 +1,6 @@
 name: "Analos NFT Launchpad"
 project_url: "https://github.com/Dubie-eth/analos-nft-launchpad-program"
-contacts: "email:security@analos.io,twitter:@EWildn,telegram:t.me/Dubie_420"
+contacts: "email:support@launchonlos.fun,twitter:@EWildn,telegram:t.me/Dubie_420"
 policy: "https://github.com/Dubie-eth/analos-nft-launchpad-program/blob/main/SECURITY.md"
 preferred_languages: "en"
 source_code: "https://github.com/Dubie-eth/analos-nft-launchpad-program"

@@ -3,7 +3,7 @@
 ## Program Information
 name: "Analos Vesting Enhanced"
 project_url: "https://github.com/yourusername/analos-nft-launchpad"
-contacts: "email:security@analos.io,twitter:@analos_io"
+contacts: "email:support@launchonlos.fun,twitter:@analos_io"
 policy: "https://github.com/yourusername/analos-nft-launchpad/blob/main/SECURITY.md"
 preferred_languages: "en"
 source_code: "https://github.com/yourusername/analos-nft-launchpad"
@@ -13,7 +13,7 @@ auditors: "None"
 acknowledgements: "Thank you to all security researchers and contributors."
 
 ## Contact Information
-- **Security Issues:** security@analos.io
+- **Security Issues:** support@launchonlos.fun
 - **Twitter/X:** @analos_io
 - **Discord:** discord.gg/analos
 - **Telegram:** t.me/analos
@@ -21,13 +21,13 @@ acknowledgements: "Thank you to all security researchers and contributors."
 
 ## Reporting Security Vulnerabilities
 If you discover a security vulnerability, please report it to:
-- Email: security@analos.io
+- Email: support@launchonlos.fun
 - Twitter DM: @analos_io
 
 **Please do NOT open a public issue for security vulnerabilities.**
 
 ## Bug Bounty Program
-Details coming soon. Contact security@analos.io for early participation.
+Details coming soon. Contact support@launchonlos.fun for early participation.
 
 ## Deployed Program
 - **Program ID:** Ae3hXKsHzYPCPUKLtq2mdYZ3E2oKeKrF63ekceGxpHsY

@@ -64,7 +64,7 @@ Each program includes:
 ## 🛡️ **Security**
 
 - All programs include security.txt for responsible disclosure
-- Contact: security@analos.io
+- Contact: support@launchonlos.fun
 - Twitter: @EWildn
 - Telegram: t.me/Dubie_420
 
@@ -89,7 +89,7 @@ The frontend uses IDL files to interact with these programs. Currently running i
 ## 📞 **Support**
 
 - **GitHub Issues**: For bug reports and feature requests
-- **Security**: security@analos.io
+- **Security**: support@launchonlos.fun
 - **General**: @EWildn on Twitter
 
 ---

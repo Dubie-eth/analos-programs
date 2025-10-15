@@ -8,7 +8,7 @@ use {default_env::default_env, solana_security_txt::security_txt};
 security_txt! {
     name: "Analos Monitoring System",
     project_url: "https://github.com/Dubie-eth/analos-programs",
-    contacts: "email:security@analos.io,twitter:@EWildn,telegram:t.me/Dubie_420",
+    contacts: "email:support@launchonlos.fun,twitter:@EWildn,telegram:t.me/Dubie_420",
     policy: "https://github.com/Dubie-eth/analos-programs/blob/main/SECURITY.md",
     preferred_languages: "en",
     source_code: "https://github.com/Dubie-eth/analos-programs",

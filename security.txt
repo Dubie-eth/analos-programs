@@ -1,4 +1,4 @@
-Contact: mailto:security@analos.io
+Contact: mailto:support@launchonlos.fun
 Contact: https://twitter.com/EWildn
 Contact: https://t.me/Dubie_420
 Expires: 2026-12-31T23:59:59.000Z
@@ -13,7 +13,7 @@ Policy: https://github.com/Dubie-eth/analos-programs/SECURITY.md
 
 If you discover a security vulnerability in any of the Analos programs, please report it responsibly:
 
-1. **Email**: security@analos.io
+1. **Email**: support@launchonlos.fun
 2. **Twitter**: @EWildn
 3. **Telegram**: t.me/Dubie_420
 
